@@ -1,0 +1,43 @@
+List of Programs:
+1. A university wants to check whether a specific keyword or phrase appears in a student’s
+assignment document. Develop a program using the Brute-Force String Matching algorithm to
+search for the given phrase in the text document and display the starting index of occurrence.
+2. a. A university campus has multiple buildings connected by walkways. A student wants to find
+the minimum number of walkways needed to reach the library from the hostel. Develop a
+program using Breadth First Search to find the shortest path between two buildings in the
+campus map represented as a graph.
+b. An operating system stores folders and subfolders in a hierarchical structure. A program must
+list all files inside deeply nested folders. Develop a program using Depth First Search to traverse
+the complete directory structure and display all files.
+3. a. A multinational company maintains employee salary records across departments. The HR
+team needs salaries sorted for payroll analysis and tax processing. Develop a program using
+Merge Sort to sort employee salaries. Execute the program for different dataset sizes and
+evaluate the algorithm’s time complexity experimentally.
+b. A university examination cell must process and sort marks of students from multiple
+departments before publishing results. Develop a program using Quick Sort to sort employee
+salaries. Execute the program for different dataset sizes and evaluate the algorithm’s time
+complexity experimentally.
+4. An IoT monitoring application stores sensor readings in sorted order. Engineers need to
+determine whether a particular reading exists in the dataset. Implement Binary Search to locate 
+the target sensor value and evaluate the algorithm’s performance for large datasets.
+5. To implement an AVL Tree for storing and managing student records efficiently with balanced
+insertion and deletion operations.
+6. A logistics company must load valuable packages into a delivery truck with limited carrying
+capacity. Each package has a specific weight and profit value. Develop a program using the 0/1
+Knapsack Dynamic Programming algorithm to determine the set of packages that maximizes
+total profit without exceeding the truck capacity.
+7. A dictionary application stores words alphabetically. Certain commonly used words are
+searched more frequently by users. Develop a program to build an Optimal Binary Search Tree
+to reduce the average search cost for word lookup operations.
+8. An airline company maintains flight connections between cities with varying travel costs. The
+company wants to identify the cheapest route between two cities. Design a program using
+Dijkstra’s Algorithm to find the minimum-cost flight path in a weighted graph representing
+airline routes.
+9. A smart home system records the power usage of different appliances. The homeowner wants
+to know whether a subset of appliances consumes exactly the available backup battery power.
+Create a program using the Subset Sum technique to determine whether the target energy
+consumption can be achieved.
+10. A sales representative must visit multiple cities to promote products and return to the starting
+city while minimizing total travel cost. Develop a program using the Branch and Bound
+approach for the Traveling Salesman Problem (TSP) to determine the minimum-cost tour
+covering all cities exactly once.
