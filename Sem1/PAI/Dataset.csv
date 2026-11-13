@@ -1,0 +1,11 @@
+Machine_ID,Temperature,Pressure,Vibration,Operating_Hours,Status
+M101,72.5,101.2,2.1,1200,Normal
+M102,85.3,105.6,4.5,1500,Warning
+M103,68.7,99.8,1.8,900,Normal
+M104,91.2,110.3,5.2,1800,Critical
+M105,76.8,102.5,2.8,1100,Normal
+M106,88.5,108.7,4.1,1650,Warning
+M107,70.4,100.1,2,950,Normal
+M108,94.6,112.4,5.8,2000,Critical
+M109,79.3,103.6,3.2,1300,Normal
+M110,86.7,107.9,4,1550,Warning
